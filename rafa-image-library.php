@@ -3,7 +3,7 @@
 Plugin Name: RAFA Image Library
 Description: Creates a downloadable image library
 Version:     1.0.0
-Author:      Rafa Digital
+Author:      Sunny Kotecha
 */
 
 class RafaImageLibrary {
